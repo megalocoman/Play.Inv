@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Play.Inventory.Service
-build_property.ProjectDir = c:\Users\megal\Documents\Play.Inv\src\Play.Inventory.Service\
+build_property.ProjectDir = C:\Users\megal\Documents\Play.Inv\src\Play.Inventory.Service\
